@@ -38,4 +38,6 @@ project.properties
 
 # Gradle-based build
 .gradle
+gradle/
+gradle
 build/
